@@ -1,0 +1,21 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/interstitial-non-acute-cystitis---primary.py
+inputModule3:
+  class: File
+  path: python/other-non-acute-cystitis---primary.py
+inputModule4:
+  class: File
+  path: python/chronic-non-acute-cystitis---primary.py
+inputModule5:
+  class: File
+  path: python/cystitis-nonacute---primary.py
+inputModule6:
+  class: File
+  path: python/nonacute---primary.py
+inputModule7:
+  class: File
+  path: python/output-cases.py
